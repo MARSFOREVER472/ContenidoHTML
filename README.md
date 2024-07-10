@@ -2,7 +2,7 @@
 
 ## JavaScript Challenge!
 
-How to change HTML text from code using Javascript.
+### How to change HTML text from code using Javascript.
 
 ## **_Desafío JavaScript!_**
 

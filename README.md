@@ -10,6 +10,7 @@
 - **_We will be learning to modify the DOM using 2 very important Javascript statements: ```queryselector``` and  ```getElementById()```._**
 - **_What we have to do is modify or add text to the document in HTML format._**
 - **_But that text will be added from the code through a web page in HTML format._**
+- **_Javascript is a programming language that dominates the entire web._**
 
 
 ## **_Desafío JavaScript!_**

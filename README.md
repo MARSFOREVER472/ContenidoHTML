@@ -4,7 +4,7 @@
 
 ### **_How to change HTML text from code using Javascript._**
 
-- How to modify the DOM using Javascript.
+- _How to modify the DOM using Javascript._
 
 ## **_Desafío JavaScript!_**
 

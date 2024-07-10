@@ -12,7 +12,7 @@
 - **_But that text will be added from the code through a web page in HTML format._**
 - **_Javascript is a programming language that dominates the entire web._**
 - **_Y estos tipos de desafíos de programación en Javascript nos sirven para practicar con tareas que vas a necesitar realizar al desarrollar con Javascript._**
-
+- **_Entonces, son tareas muy habituales que acabarás haciendo antes o después al programar con Javascript._**
 
 ## **_Desafío JavaScript!_**
 

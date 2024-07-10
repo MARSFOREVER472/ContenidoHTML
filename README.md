@@ -2,4 +2,4 @@
 
 ## **_Desafío JavaScript!_**
 
-Cómo cambiar el texto del HTML desde el código utilizando Javascript._**
+_Cómo cambiar el texto del HTML desde el código utilizando Javascript._**

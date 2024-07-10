@@ -10,4 +10,4 @@
 - **_Estaremos aprendiendo a modificar el DOM usando 2 sentencias muy importantes de Javascript: ```queryselector``` y ```getElementById()```._**
 - **_Lo que tenemos que hacer es modificar o añadir texto al documento en formato HTML._**
 - **_Pero ese texto será agregado desde el código mediante una página web en formato HTML._**
-- _Javascript es el lenguaje de programación que domina la web._
+- **_Javascript es el lenguaje de programación que domina la web._**

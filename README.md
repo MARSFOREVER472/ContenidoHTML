@@ -9,7 +9,7 @@
 - **_This would be exactly what we are going to do in this project._**
 - **_We will be learning to modify the DOM using 2 very important Javascript statements: ```queryselector``` and  ```getElementById()```._**
 - **_What we have to do is modify or add text to the document in HTML format._**
-
+- **_But that text will be added from the code through a web page in HTML format._**
 
 
 ## **_Desafío JavaScript!_**

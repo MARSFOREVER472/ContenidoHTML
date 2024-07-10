@@ -9,3 +9,4 @@
 - **_Esto sería exactamente lo que vamos a hacer en este proyecto._**
 - **_Estaremos aprendiendo a modificar el DOM usando 2 sentencias muy importantes de Javascript: ```queryselector``` y ```getElementById()```._**
 - **_Lo que tenemos que hacer es modificar o añadir texto al documento en formato HTML._**
+- Pero ese texto será agregado desde el código HTML.

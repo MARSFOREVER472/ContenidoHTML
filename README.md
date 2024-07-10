@@ -8,6 +8,8 @@
 - **_Would you be able to add text to an HTML element from code through files using Javascript?_**
 - **_This would be exactly what we are going to do in this project._**
 - **_We will be learning to modify the DOM using 2 very important Javascript statements: ```queryselector``` and  ```getElementById()```._**
+- **_What we have to do is modify or add text to the document in HTML format._**
+
 
 
 ## **_Desafío JavaScript!_**

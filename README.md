@@ -12,4 +12,4 @@
 - **_Pero ese texto será agregado desde el código mediante una página web en formato HTML._**
 - **_Javascript es un lenguaje de programación que domina toda la web._**
 - **_Y estos tipos de desafíos de programación en Javascript nos sirven para practicar con tareas que vas a necesitar realizar al desarrollar con Javascript._**
-- _Entonces, son tareas muy habituales que acabarás haciendo antes o después al programar con Javascript._
+- **_Entonces, son tareas muy habituales que acabarás haciendo antes o después al programar con Javascript._**

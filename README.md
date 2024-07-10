@@ -1,6 +1,6 @@
 # **_ContenidoHTML_**
 
-## _JavaScript Challenge!_
+## **_JavaScript Challenge!_**
 
 ### How to change HTML text from code using Javascript.
 

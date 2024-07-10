@@ -11,6 +11,7 @@
 - **_What we have to do is modify or add text to the document in HTML format._**
 - **_But that text will be added from the code through a web page in HTML format._**
 - **_Javascript is a programming language that dominates the entire web._**
+- **_Y estos tipos de desafíos de programación en Javascript nos sirven para practicar con tareas que vas a necesitar realizar al desarrollar con Javascript._**
 
 
 ## **_Desafío JavaScript!_**

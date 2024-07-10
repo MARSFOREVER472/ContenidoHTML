@@ -1,6 +1,6 @@
 # **_ContenidoHTML_**
 
-JavaScript Challenge!
+## JavaScript Challenge!
 
 ## **_Desafío JavaScript!_**
 

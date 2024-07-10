@@ -6,4 +6,4 @@
 
 - **_Cómo modificar el DOM utilizando Javascript._**
 - **_¿Serías capaz de agregar texto a un elemento HTML desde el código mediante archivos utilizando Javascript?_**
-- _Esto sería exactamente lo que vamos a hacer en este proyecto._
+- **_Esto sería exactamente lo que vamos a hacer en este proyecto._**

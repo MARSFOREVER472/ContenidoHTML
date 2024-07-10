@@ -5,6 +5,7 @@
 ### **_How to change HTML text from code using Javascript._**
 
 - **_How to modify the DOM using Javascript._**
+- **_Would you be able to add text to an HTML element from code through files using Javascript?_**
 
 ## **_Desafío JavaScript!_**
 

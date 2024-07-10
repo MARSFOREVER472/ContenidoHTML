@@ -1,2 +1,2 @@
 # ContenidoHTML
-**_Cómo cambiar el texto del HTML desde el código Javascript._**
+**_Desafío JavaScript: Cómo cambiar el texto del HTML desde el código Javascript._**

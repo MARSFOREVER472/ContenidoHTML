@@ -11,4 +11,4 @@
 - **_Lo que tenemos que hacer es modificar o añadir texto al documento en formato HTML._**
 - **_Pero ese texto será agregado desde el código mediante una página web en formato HTML._**
 - **_Javascript es un lenguaje de programación que domina toda la web._**
-- Y estos tipos de desafíos de programación en Javascript nos sirven para practicar con tareas que vas a necesitar realizar al desarrollar con Javascript.
+- _Y estos tipos de desafíos de programación en Javascript nos sirven para practicar con tareas que vas a necesitar realizar al desarrollar con Javascript._
